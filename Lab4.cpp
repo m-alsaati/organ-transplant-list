@@ -8,7 +8,7 @@
  * File:   Lab4.cpp
  * Author: Molham Alsaati
  *
- * Created on October 11, 2021, 4:33 PM
+ *
  */
 
 #include <iostream>
