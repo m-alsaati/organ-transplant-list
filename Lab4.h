@@ -8,7 +8,7 @@
  * File:   Lab4.h
  * Author: Molham Alsaati
  *
- * Created on October 11, 2021, 4:33 PM
+ *
  */
 
 #ifndef LAB4_H
