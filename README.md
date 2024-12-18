@@ -3,4 +3,4 @@ Program that lets you enter patients into an organ transplant list. Program take
 
 Options are limited for organ choice (heart, kidney, lung, liver).
 
-Information is entered into the console with spaces between them, for example: Spongebob Squarepants AB kidney 21 2024
+Information is entered into the console with spaces between them, in the order: First name Last name Blood type Organ Age Year added to list
